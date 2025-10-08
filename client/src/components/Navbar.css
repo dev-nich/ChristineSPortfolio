@@ -1,0 +1,40 @@
+.navbar{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #fff;
+    padding: 15px 7%;
+
+}
+
+ul{
+    flex: 1;
+    list-style: none;
+    text-align: center;
+}
+
+ ul li {
+    display: block;
+    margin: 10px 20px;
+    font-size: 18px;
+    
+}
+
+.navbar ul li,
+ul.nav li {
+    display: inline-block;
+}
+
+ul li a {
+    text-decoration: none !important;
+    color: #4A4947 !important;
+    cursor: pointer;
+}
+
+ ul li:hover a{
+    color: #AF3E3E !important;
+}
+
+ ul li:hover a svg{
+    fill: #AF3E3E;
+}

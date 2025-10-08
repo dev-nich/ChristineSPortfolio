@@ -8,7 +8,7 @@ const Contact = () => {
         <Container id="contact" className="section">
             <h1>Get In Touch</h1>
             <ul className="nav">
-                <li><a href="mailto:csapuras@gmail.com" target="_blank"><AlternateEmailIcon/></a></li>
+                <li><a href="mailto:dev.christines@gmail.com" target="_blank"><AlternateEmailIcon/></a></li>
                 <li><a href="https://www.linkedin.com/in/christine-sapuras-111a0b90/" target="_blank"><LinkedInIcon /></a></li>
                 </ul>
 

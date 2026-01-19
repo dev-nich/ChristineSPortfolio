@@ -11,11 +11,14 @@ const About = () => {
                 <Grid size={3}>
                     <Grid size={12}><h3>Frontend</h3></Grid>
                     <Grid size={12}>React</Grid>
+                    <Grid size={12}>React Admin</Grid>
                     <Grid size={12}>Material UI</Grid>
                 </Grid>
                 <Grid size={3}>
                     <Grid size={12}><h3>Backend</h3></Grid>
                     <Grid size={12}>PHP</Grid>
+                    <Grid size={12}>ExpressJS</Grid>
+                    <Grid size={12}>Python</Grid>
                 </Grid>
                 <Grid size={3}>
                     <Grid size={12}><h3>Architecture</h3></Grid>

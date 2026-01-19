@@ -8,8 +8,7 @@ const Project = () => {
 
             <ul>
                 <li><a href="https://nich.legenbucky.trade/">Synology NAS hosted site</a></li>
-                <li><a href="https://nich.legenbucky.trade/">AWS hosted site</a></li>
-                <li><a href="https://nich.legenbucky.trade/">Surgery Clinic Web App</a></li>
+                <li><a href="https://github.com/dev-nich/clinicApp/tree/main">Clinic Web App</a></li>
             </ul>
             
         </Container>
